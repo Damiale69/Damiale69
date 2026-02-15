@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Damian 👋
+Full Stack JavaScript Developer from Argentina 🇦🇷
+Focused on building scalable web applications with React & Node.js.
+🛠 Tech Stack
+JavaScript (ES6+)
+React
+Node.js & Express
+MySQL
+MongoDB
+Git & GitHub
+🚀 Projects
+🔹 Full Stack Web App (React + Node.js)
+🔹 REST API with MongoDB
+🔹 Authentication System Implementation
+Currently improving my skills and looking for international opportunities.
 
-<!--
-**Damiale69/Damiale69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
